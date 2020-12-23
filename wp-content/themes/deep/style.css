@@ -467,8 +467,8 @@ aside#secondary {
     width: 10px;
     height: 10px;
     background-color: #444444;
-    -webkit-mask:  url('./fonts/fontawesome-free-svgs/chevron-right.svg') no-repeat 50% 50%;
-    mask: url('./fonts/fontawesome-free-svgs/chevron-right.svg') no-repeat 50% 50%;
+    -webkit-mask:  url('http://nuwanuom18.github.io/vivo/wp-content/themes/deep/fonts/fontawesome-free-svgs/chevron-right.svg') no-repeat 50% 50%;
+    mask: url('http://nuwanuom18.github.io/vivo/wp-content/themes/deep/fonts/fontawesome-free-svgs/chevron-right.svg') no-repeat 50% 50%;
 }
 
 .deep-theme-headline {
@@ -503,8 +503,8 @@ li.menu-item-has-children > a:before {
     right: -5px;   
     content: '';
     background-color: #444444;
-    -webkit-mask:  url('./fonts/fontawesome-free-svgs/chevron-down.svg') no-repeat 50% 50%;
-    mask: url('./fonts/fontawesome-free-svgs/chevron-down.svg') no-repeat 50% 50%;
+    -webkit-mask:  url('http://nuwanuom18.github.io/vivo/wp-content/themes/deep/fonts/fontawesome-free-svgs/chevron-down.svg') no-repeat 50% 50%;
+    mask: url('http://nuwanuom18.github.io/vivo/wp-content/themes/deep/fonts/fontawesome-free-svgs/chevron-down.svg') no-repeat 50% 50%;
 }
 
 li.menu-item-has-children:hover > a:before {
