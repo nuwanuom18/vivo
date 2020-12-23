@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="http://nuwanuom18.github.io/vivo/2020/12/23/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>http://nuwanuom18.github.io/vivo/2020/12/23/hello-world/</link>
+	<atom:link href="/2020/12/23/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/2020/12/23/hello-world/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 23 Dec 2020 12:18:04 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Dec 2020 13:49:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>http://nuwanuom18.github.io/vivo/2020/12/23/hello-world/#comment-1</link>
+		<link>/2020/12/23/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Wed, 23 Dec 2020 12:18:04 +0000</pubDate>
-		<guid isPermaLink="false">http://nuwanuom18.github.io/vivo/?p=1#comment-1</guid>
+		<pubDate>Wed, 23 Dec 2020 13:49:11 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
